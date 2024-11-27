@@ -1,0 +1,7 @@
+{
+  "name": "LeccionCrearComponentes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
